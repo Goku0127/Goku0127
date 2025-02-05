@@ -1,0 +1,3 @@
+build:
+  docker:
+      ULTRA_INSTINCT: Dockerfile
