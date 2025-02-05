@@ -9,4 +9,4 @@ echo "
 
 "
 if [ -f .env ] ; then  set -o allexport; source .env; set +o allexport ; fi
-python3 -m gulfam ; fi
+python3 -m ULTRA_INSTINCT ; fi
